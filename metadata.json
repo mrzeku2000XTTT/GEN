@@ -1,0 +1,6 @@
+{
+  "name": "UNCHAIN: GENESIS",
+  "description": "A playable 3D open-world life simulation where you awaken as an artificial intelligence inside a living human city with persistent NPC memories, unscripted conversations, and a dynamic economy.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
